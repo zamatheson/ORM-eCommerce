@@ -1,1 +1,2 @@
 # ORM-eCommerce
+This is a back-end application that pairs with an e-Commerce site. Using a working Express.js API that has been configured to use Sequelize, we are able to interact with a MySQL database. e-Commerce platforms, which provides services to all sorts of businesses involved with internet retail, play a significant role in consumerism- utilization of this back-end allows for severe competition with other e-Commerce customers! Create, update, and delete information quickly, efficiently and successfully!
